@@ -82,7 +82,9 @@ blah.RegisterHead("confetti", toJson({kill=true}))
 ----
 ### Heads
 [Test Head](https://tiv.fishing/heads/test-head)
+
 [Text Head](https://tiv.fishing/heads/text-head)
+
 [Confetti Head](https://tiv.fishing/heads/confetti-head)
 
 ---
