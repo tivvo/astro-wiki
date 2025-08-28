@@ -68,7 +68,6 @@ you can see the data available for every head in their pages specifically, and t
 i.e
 
 ```lua
-
 --- blah is a made up function for registering data heads with a header and then also data afterwards
 blah.RegisterHead("confetti", toJson({kill=true}))
 ```
@@ -81,11 +80,8 @@ blah.RegisterHead("confetti", toJson({kill=true}))
 
 ----
 ### Heads
-[Test Head](https://tiv.fishing/heads/test-head)
+[Test Head](https://tivvo.github.io/astro-wiki/test-head)
 
-[Text Head](https://tiv.fishing/heads/text-head)
+[Text Head](https://tivvo.github.io/astro-wiki/text-head)
 
-[Confetti Head](https://tiv.fishing/heads/confetti-head)
-
----
-[Go Back To Introduction](https://tivvo.github.io/astro-wiki/)
+[Confetti Head](https://tivvo.github.io/astro-wiki/confetti-head)
