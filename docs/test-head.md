@@ -10,3 +10,6 @@ the test head is a simple head for testing that i originally made with the confe
 -----
 -----
 N/A
+
+---
+<center>[Go Back To Introduction](https://tivvo.github.io/astro-wiki/)</center>

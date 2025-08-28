@@ -67,3 +67,6 @@ i.e, a finalized text data with a gradient on it will look like the following:
 
 `seeThrough : boolean`
 > Makes the TextTask seethrough based on the value.
+
+---
+<center>[Go Back To Introduction](https://tivvo.github.io/astro-wiki/)</center>

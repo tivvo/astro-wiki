@@ -26,3 +26,6 @@ the confetti head is like the test head, wherein it spawns confetti when it's br
 
 `kill : Boolean`
 > Makes a confetti head explode other players within a 4 block vicinity, this does require the host of the head to be on however, as the kill command is ran by commands. Otherwise, it'll just summon the appear confetti effect on the players.
+
+---
+<center>[Go Back To Introduction](https://tivvo.github.io/astro-wiki/)</center>
