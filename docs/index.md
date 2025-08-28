@@ -81,9 +81,9 @@ blah.RegisterHead("confetti", toJson({kill=true}))
 
 ----
 ### Heads
-<center>[Test Head](https://tiv.fishing/heads/test-head)</center>
-<center>[Text Head](https://tiv.fishing/heads/text-head)</center>
-<center>[Confetti Head](https://tiv.fishing/heads/confetti-head)</center>
+[Test Head](https://tiv.fishing/heads/test-head)
+[Text Head](https://tiv.fishing/heads/text-head)
+[Confetti Head](https://tiv.fishing/heads/confetti-head)
 
 ---
-<center>[Go Back To Introduction](https://tivvo.github.io/astro-wiki/)</center>
+[Go Back To Introduction](https://tivvo.github.io/astro-wiki/)
